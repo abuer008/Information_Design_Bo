@@ -19,7 +19,7 @@ export default function ProjectDetail({project}: Props) {
             position: 'fixed',
             // top: 0,
             // right: 0,
-            width: { md: '250px', lg: '550px'},
+            width: { md: '250px', lg: '450px'},
             height: '100vh',
             backgroundColor: 'background.default',
             borderLeft: 'solid grey',
